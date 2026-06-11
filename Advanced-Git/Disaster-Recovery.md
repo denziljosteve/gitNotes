@@ -245,3 +245,14 @@ def456 HEAD@{1}: commit: D
 
 ghi789 HEAD
 ```
+
+
+## Interview Questions
+
+- **Q: How does this chapter's concept integrate into a standard CI/CD workflow?**
+  - **A:** It forms the foundational version control step, ensuring code is safely tracked before automated builds and tests are triggered.
+
+
+## Summary
+
+Mastering the commands and concepts in this chapter is a step forward in becoming a Git professional. Practice these workflows frequently to build confidence.

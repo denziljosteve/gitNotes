@@ -1446,3 +1446,10 @@ In this chapter, you learned Git's most essential commands:
 * `git reset` unstages changes and moves references.
 
 These commands form the core of everyday Git usage and provide the foundation for advanced topics such as branching, merging, collaboration, rebasing, and release management.
+
+
+## Troubleshooting
+
+- Always run `git status` to verify your current state before proceeding.
+- Use `git log --oneline --graph` to visualize your commit history and understand where you are.
+- If a command fails, read the error message carefully; Git often suggests the solution.

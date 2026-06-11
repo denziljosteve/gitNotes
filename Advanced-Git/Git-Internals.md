@@ -1252,3 +1252,10 @@ In this chapter, you learned:
 * Commands such as `git cat-file`, `git gc`, and `git hash-object` allow inspection of Git's internal structures.
 
 Understanding Git internals transforms Git from a collection of commands into a powerful, predictable system. This knowledge is invaluable for debugging complex issues, recovering lost data, optimizing repositories, and succeeding in advanced software engineering interviews.
+
+
+## Troubleshooting
+
+- Always run `git status` to verify your current state before proceeding.
+- Use `git log --oneline --graph` to visualize your commit history and understand where you are.
+- If a command fails, read the error message carefully; Git often suggests the solution.

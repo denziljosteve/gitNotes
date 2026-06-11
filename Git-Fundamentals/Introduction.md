@@ -1049,3 +1049,10 @@ Key takeaways:
 * Understanding Git terminology such as repositories, commits, branches, merges, clones, pushes, and pulls is essential before learning Git commands.
 
 In the next chapter, you will learn how Git is installed, configured, and initialized for real-world projects.
+
+
+## Troubleshooting
+
+- Always run `git status` to verify your current state before proceeding.
+- Use `git log --oneline --graph` to visualize your commit history and understand where you are.
+- If a command fails, read the error message carefully; Git often suggests the solution.

@@ -72,8 +72,6 @@ These notes focus on understanding Git concepts first and then applying them thr
 * Beginner Git Questions
 * Intermediate Git Questions
 * Advanced Git Questions
-* Real-World Scenarios
-* Common Troubleshooting Questions
 
 ---
 
@@ -83,6 +81,12 @@ These notes focus on understanding Git concepts first and then applying them thr
 gitNotes/
 │
 ├── README.md
+├── LICENSE
+├── ROADMAP.md
+├── RESOURCES.md
+├── CHEATSHEET.md
+├── GIT-COMMAND-REFERENCE.md
+├── CODE_OF_CONDUCT.md
 │
 ├── Git-Fundamentals/
 │   ├── Introduction.md
@@ -101,14 +105,27 @@ gitNotes/
 │   └── Open-Source-Contributions.md
 │
 ├── Advanced-Git/
-    ├── Git-Internals.md
-    ├── Reflog.md
-    ├── Cherry-Pick.md
-    ├── Worktrees.md
-    ├── Hooks.md
-    └── Disaster-Recovery.md
-
+│   ├── Git-Internals.md
+│   ├── Reflog.md
+│   ├── Cherry-Pick.md
+│   ├── Worktrees.md
+│   ├── Hooks.md
+│   └── Disaster-Recovery.md
+│
+└── Interview-Preparation/
+    ├── Beginner.md
+    ├── Intermediate.md
+    └── Advanced.md
 ```
+
+---
+
+## ⚡ Quick References
+
+* **[Git Cheat Sheet](./CHEATSHEET.md)** — Quick commands for daily use.
+* **[Command Reference](./GIT-COMMAND-REFERENCE.md)** — Exhaustive list of Git commands and syntax.
+* **[Learning Resources](./RESOURCES.md)** — Curated list of books, videos, and practice sites.
+* **[Project Roadmap](./ROADMAP.md)** — Current status and future enhancements.
 
 ---
 
@@ -202,14 +219,12 @@ Feel free to:
 
 ## 📌 Future Additions
 
-* GitHub Actions Notes
-* CI/CD Workflows
-* GitLab Notes
-* Monorepo Strategies
-* Enterprise Git Workflows
-* Interactive Examples
-* Practice Exercises
-* Visual Git Diagrams
+* **Phase 5:** GitHub Actions & CI/CD Pipelines
+* **Phase 6:** GitLab Workflows & Merge Requests
+* **Phase 7:** Enterprise Git (Scaling, LFS, Security)
+* **Phase 8:** Monorepo Workflows (Nx, Bazel, Lerna)
+* **Phase 9:** Interactive Labs & Terminal Simulations
+* **Phase 10:** Community Translations (i18n)
 
 ---
 
