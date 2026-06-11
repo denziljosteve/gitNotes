@@ -101,17 +101,13 @@ gitNotes/
 │   └── Open-Source-Contributions.md
 │
 ├── Advanced-Git/
-│   ├── Git-Internals.md
-│   ├── Reflog.md
-│   ├── Cherry-Pick.md
-│   ├── Worktrees.md
-│   ├── Hooks.md
-│   └── Disaster-Recovery.md
-│
-└── Interview-Preparation/
-    ├── Beginner.md
-    ├── Intermediate.md
-    └── Advanced.md
+    ├── Git-Internals.md
+    ├── Reflog.md
+    ├── Cherry-Pick.md
+    ├── Worktrees.md
+    ├── Hooks.md
+    └── Disaster-Recovery.md
+
 ```
 
 ---
